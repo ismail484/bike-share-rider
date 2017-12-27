@@ -1,4 +1,4 @@
-# Project: bike-share-rider - [Mohamed Ismail]
+# Project: bike-share-rider - Deep Learning [Mohamed Ismail]
 
 # Description
   
